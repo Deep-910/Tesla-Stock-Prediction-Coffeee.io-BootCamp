@@ -1,7 +1,7 @@
 # Tesla-Stock-Prediction-Coffeee.io-BootCamp
 This project is based on Machine Learning  to predict the  "Tesla Stock" price with the help python libraries in that I predict optimal price of tesla.
 
-# fdDATASET
+# DATASET
 
 The dataset used in this project is Tesla stocks history(from June 2010 to February 2020). i have Downloaded this file from Kaggle, ans also upload in the project for more convenience, File name  ******TSLA.CSV*******
 
